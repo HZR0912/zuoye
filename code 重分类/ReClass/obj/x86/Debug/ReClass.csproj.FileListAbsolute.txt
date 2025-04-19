@@ -1,0 +1,30 @@
+E:\写书\栅格分析\随书程序\ReClass\ReClass\bin\Debug\ReClass.exe
+E:\写书\栅格分析\随书程序\ReClass\ReClass\bin\Debug\ReClass.pdb
+E:\写书\栅格分析\随书程序\ReClass\ReClass\obj\x86\Debug\ReClass.FrmReClass.resources
+E:\写书\栅格分析\随书程序\ReClass\ReClass\obj\x86\Debug\ReClass.Properties.Resources.resources
+E:\写书\栅格分析\随书程序\ReClass\ReClass\obj\x86\Debug\ReClass.csproj.GenerateResource.Cache
+E:\写书\栅格分析\随书程序\ReClass\ReClass\obj\x86\Debug\ReClass.exe
+E:\写书\栅格分析\随书程序\ReClass\ReClass\obj\x86\Debug\ReClass.pdb
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.exe
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.pdb
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\bin\Debug\ReClass.exe
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\bin\Debug\ReClass.pdb
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.FrmReClass.resources
+F:\ArcGIS Engine修订书\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.Properties.Resources.resources
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.exe
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.pdb
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\bin\Debug\ReClass.exe
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\bin\Debug\ReClass.pdb
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.csprojResolveAssemblyReference.cache
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.FrmReClass.resources
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.Properties.Resources.resources
+F:\Users\ZhuShuaibing\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.csproj.GenerateResource.Cache
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.exe
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.pdb
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\bin\Debug\ReClass.exe
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\bin\Debug\ReClass.pdb
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.csprojResolveAssemblyReference.cache
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.FrmReClass.resources
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.Properties.Resources.resources
+C:\Users\zhmy\Desktop\chp08\chp08\8.9重分类\code\ReClass\obj\x86\Debug\ReClass.csproj.GenerateResource.Cache
